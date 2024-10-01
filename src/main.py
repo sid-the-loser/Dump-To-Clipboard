@@ -7,7 +7,7 @@ program_version = "r1.0.0"
 
 clipboard_filesize_limit = 1073741824
 
-parser = argparse.ArgumentParser(prog=f"Dump To Clipboard (dtcp) - {program_version}",
+parser = argparse.ArgumentParser(prog=f"Dump To Clipboard (dtcb) - {program_version}",
                                  description="Doesn't the name explain what it does?")
 
 parser.add_argument("filename", type=str, help="Enter the filename of the file data you'd like to copy")

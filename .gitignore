@@ -1,7 +1,6 @@
 # folders to ignore
 src/test/
-build/
-dist/
+output/
 src/__pycache__/
 
 # file exts to ignore

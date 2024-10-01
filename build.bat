@@ -1,0 +1,1 @@
+pyinstaller --noconfirm --onedir --console --name "dtcb"  "C:\Users\sidha\OneDrive\Documents\Projects\Python Projects\Dump To Clipboard\src\main.py"

@@ -1,0 +1,2 @@
+class TooBigForMeToHandle(Exception):
+    pass

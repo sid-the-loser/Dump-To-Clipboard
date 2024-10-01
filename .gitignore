@@ -1,0 +1,8 @@
+# folders to ignore
+src/test/
+build/
+dist/
+src/__pycache__/
+
+# file exts to ignore
+*.spec
